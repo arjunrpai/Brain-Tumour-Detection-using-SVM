@@ -1,11 +1,9 @@
 # 🧠 Brain Tumor Detection using SVM
-
 ## 📌 Overview
 This project focuses on detecting and classifying brain tumors from MRI images using **Machine Learning techniques**.  
 A **Support Vector Machine (SVM)** classifier is used along with **Principal Component Analysis (PCA)** for dimensionality reduction.
 
 The system helps in **early diagnosis of brain tumors**, reducing manual effort and improving accuracy.
-
 
 ## 🚀 Features
 - 🧠 MRI-based brain tumor classification  
@@ -18,7 +16,6 @@ The system helps in **early diagnosis of brain tumors**, reducing manual effort 
   - Meningioma Tumor  
 - 📈 Training & Testing performance evaluation  
 - 🖼️ Visualization of predictions  
-
 
 ## 🛠️ Technologies Used
 - Python 🐍  
