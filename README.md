@@ -18,7 +18,7 @@ The system helps in **early diagnosis of brain tumors**, reducing manual effort 
 - 🖼️ Visualization of predictions  
 
 ## 🛠️ Technologies Used
-- Python 🐍  
+- Python 
 - OpenCV  
 - NumPy  
 - Matplotlib  
